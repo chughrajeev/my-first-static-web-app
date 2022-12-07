@@ -1,0 +1,1 @@
+positionForPages[107]={"page":107,"positions":[{"word":"www","left":0.765667,"top":0.943068,"width":0.031851,"height":0.005160},{"word":"dssmith","left":0.800851,"top":0.940882,"width":0.045868,"height":0.007459},{"word":"com","left":0.851341,"top":0.942935,"width":0.023033,"height":0.005407},{"word":"107","left":0.898291,"top":0.940604,"width":0.031212,"height":0.009205}]};
